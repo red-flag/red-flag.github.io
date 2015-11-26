@@ -6,7 +6,7 @@ title: Raising Red Flag
 ### Red Flag
 
 "Red Flag" in a company culture means that any person can stand-up and speak-up of a company problem.
-For example in some car companies any worker can stop conveyer if he know that there are quality issues.
+For example in some car companies any worker can stop conveyer if he knows that there are quality issues.
 
 ### Protect
 
@@ -16,4 +16,4 @@ and protected to ensure that the practice will live.
 ### Keep it inside company
 
 While it can be touching life question, keep it inside company and do not let outside world know.
-For example use `#redflag` tag in yammer (enterprise social network)
+For example use enterprise social network, like yammer  with `#redflag` tag.
