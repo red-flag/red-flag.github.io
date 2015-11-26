@@ -3,6 +3,8 @@ layout: tactile_theme
 title: Raising Red Flag
 ---
 
+![](images/red-flag.png)
+
 ### Red Flag
 
 "Red Flag" in a company culture means that any person can stand-up and speak-up of a company problem.
