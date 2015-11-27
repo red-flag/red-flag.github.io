@@ -24,4 +24,4 @@ and protected to ensure that the practice will live.
 ### Keep it inside company
 
 While it can be touching life question, keep it inside company and do not let outside world know.
-For example use enterprise social network, like yammer  with `#redflag` tag.
+For example use enterprise social network, like yammer  with `#red-flag` tag.
