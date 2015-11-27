@@ -3,7 +3,9 @@ layout: tactile_theme
 title: Raising Red Flag
 ---
 
+<!--
 ![](images/red-flag.png)
+-->
 
 ### Red Flag
 
