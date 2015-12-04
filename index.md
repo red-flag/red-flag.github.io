@@ -7,7 +7,7 @@ title: Raising Red Flag
 
 ### Red Flag
 
-"Red Flag" in a company culture means that any person can stand-up and speak-up of a company problem.
+"Red Flag" in a company culture means that any person can stand-up and openly and loudly speak-up of a company problem.
 For example in some car companies any worker can stop assembly line (conveyer) if he knows that there are quality issues.
 
 ### Why
